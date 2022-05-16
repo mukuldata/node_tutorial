@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile page</title>
+</head>
+<body>
+    <!-- taking data from template.js file -->
+
+    <h1>Profile Page</h1>
+    <!-- Loading javascipt webpages -->
+    <h2>Welcome <%= user.name%> </h2>
+    <h3> Age <%= user.age %> and city of the user is <%=user.city%></h3>
+    <ul>
+        <% user.skills.forEach((item)=>{ %>
+          <li><%= item %></li>  
+
+        <% }) %>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,66 @@
+# Run the file: node index.js
+
+
+
+
+
+#Content Structure:
+firstProgram.js            -->Basic file
+import1 and import2        -->import and export 
+ques3.js                   -->filter function
+modules.js                 --->fileSystem function 
+server.js                  -->basic server create
+Package.json               -->explore it
+colors.js                  --> use colors package 
+myAPI.js and data.js        -->creating API
+process.js                  --> process 
+commandLine.js              -->add and remove using command line
+files(folder) and 
+createFile.js                --> create no. of files in a dir  
+crud and
+crud.js                     --> CRUD operations
+async.js                    --> Async 
+promise.js                  --> promise
+
+
+//Express: Install express
+index.js                         -->basics of express
+
+html folder and 
+index2.js                        --> Access html pages      
+views 
+
+views->common and 
+template.js                        -->template engine
+middleware.js                      -->middleware
+
+middleware2.js 
+fileMiddleware.js                  -->RouteLevel middle ware
+middleware3.js                     --> Adding different middleware
+
+
+#Mongodb:
+readData.js                            --> Get mongoDb data
+mongodb.js                          -->handle promises
+dbConnection.js                     --> dbConnection
+insertData.js                       --> insert data
+updateData.js                       --> update data
+deleteData.js                       --> delete data 
+api.js                              -->get ,post ,update and delete 
+                                        methods
+
+#Mongoose:
+index.js                             -->connection, schema and model
+crud.js                               -->static data (CRUD operations)
+method.js                            --> post,get ,put, delete method 
+search.js                             --> Search in api
+
+#moreInNode:
+osModule.js                           --> os modules
+events.js                             --> events and events emitter
+
+#mySQL:
+connection.js                          -->connection file
+getApi.js                              -->get api with my mySQL
+postAPI.js                             -->post api with mySQL
+putAPI.js                              -->put api with my
